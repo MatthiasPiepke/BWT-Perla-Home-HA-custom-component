@@ -1,0 +1,6 @@
+{
+  "domain": "bwt_perla_home",
+  "name": "BWT Perla Home",
+  "version": "0.1.0",
+  "iot_class": "local_polling"
+}
