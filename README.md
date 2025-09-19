@@ -1,6 +1,6 @@
-# HA Integration for BWT Perla Home
+# HA Integration for BWT Perla Home for old FW 1.7x
 
-**A custom component for Home Assistant that delivers data from the water softener BWT Perla Home.**
+**A custom component for Home Assistant that delivers data from the water softener BWT Perla Home. This is not working with newer Firmware than 1.7x.**
 
 <img src="images/bwt_gui.png" alt="drawing" width="300" align="right"/> 
 
